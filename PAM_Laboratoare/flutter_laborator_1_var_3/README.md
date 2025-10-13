@@ -1,16 +1,3 @@
-# lab_1
-
-Calculator_viteza
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Calculator_viteza
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/7430c462-27b6-43e8-9f82-f865e6e4a48f" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cc2e5bd4-fa44-448b-b23f-9f11feae7002" />
