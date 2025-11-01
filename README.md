@@ -1,1 +1,1 @@
-Izbaș Andrei, TI-224, Varina 3
+Izbaș Andrei, TI-224, Varianta 3
