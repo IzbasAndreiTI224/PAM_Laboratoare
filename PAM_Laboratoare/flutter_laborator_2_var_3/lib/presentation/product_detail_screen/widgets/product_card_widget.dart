@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import '../../../core/app_export.dart';
-import '../../../core/utils/image_constant.dart';
-import '../../../theme/text_style_helper.dart';
 import '../../../widgets/custom_icon_button.dart';
 import '../../../widgets/custom_image_view.dart';
 
